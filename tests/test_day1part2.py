@@ -3,7 +3,7 @@ import unittest
 from day1.part2 import *
 from dataclasses import dataclass
 
-class Part2Tests(unittest.TestCase):
+class Day1Part2Tests(unittest.TestCase):
   def test_passes_right(self):
     np, zero_passes = process_line("R500", 50)
 

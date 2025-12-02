@@ -20,6 +20,22 @@
       "program": "part2.py",
       "console": "integratedTerminal",
       "cwd": "${workspaceFolder}/day1"
-    }
+    },
+    {
+      "name": "Day2 Part1",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "part1.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}/day2"
+    },
+    {
+      "name": "Day2 Part2",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "part2.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}/day2"
+    },
   ]
 }
