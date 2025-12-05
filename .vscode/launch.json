@@ -45,5 +45,13 @@
       "console": "integratedTerminal",
       "cwd": "${workspaceFolder}/day3"
     },
+    {
+      "name": "Day3 Part2",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "part2.py",
+      "console": "integratedTerminal",
+      "cwd": "${workspaceFolder}/day3"
+    },
   ]
 }
